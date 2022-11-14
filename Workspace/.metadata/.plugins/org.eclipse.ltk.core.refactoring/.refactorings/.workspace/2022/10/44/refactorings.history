@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Control_ECU/CONTROL_ECU_MAIN.C&apos;" deleteContents="false" description="Delete resource &apos;Control_ECU/CONTROL_ECU_MAIN.C&apos;" element1="/Control_ECU/CONTROL_ECU_MAIN.C" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1666972780539"/>
+</session>
